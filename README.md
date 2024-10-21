@@ -2,3 +2,5 @@
 
 Prénom : \David <br />
 Nom : \Gagnon
+
+Ajout pour exercice 7
